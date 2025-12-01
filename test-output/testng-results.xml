@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-16T17:18:42 AST" name="Default suite" finished-at="2025-11-16T17:19:10 AST" duration-ms="27973">
+    <groups>
+    </groups>
+    <test started-at="2025-11-16T17:18:42 AST" name="Default test" finished-at="2025-11-16T17:19:10 AST" duration-ms="27973">
+      <class name="project1.Myfirstproject">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:project1.Myfirstproject@acdb094]" started-at="2025-11-16T17:18:42 AST" name="mySetup" finished-at="2025-11-16T17:18:45 AST" duration-ms="3478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="signup()[pri:1, instance:project1.Myfirstproject@acdb094]" started-at="2025-11-16T17:18:45 AST" name="signup" finished-at="2025-11-16T17:18:59 AST" duration-ms="13852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method signature="logout()[pri:2, instance:project1.Myfirstproject@acdb094]" started-at="2025-11-16T17:18:59 AST" name="logout" finished-at="2025-11-16T17:19:02 AST" duration-ms="2708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="login()[pri:3, instance:project1.Myfirstproject@acdb094]" started-at="2025-11-16T17:19:02 AST" name="login" finished-at="2025-11-16T17:19:06 AST" duration-ms="4441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="deleteaccount()[pri:4, instance:project1.Myfirstproject@acdb094]" started-at="2025-11-16T17:19:06 AST" name="deleteaccount" finished-at="2025-11-16T17:19:10 AST" duration-ms="3395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteaccount -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:project1.Myfirstproject@acdb094]" started-at="2025-11-16T17:19:10 AST" name="aftertest" finished-at="2025-11-16T17:19:10 AST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- project1.Myfirstproject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
